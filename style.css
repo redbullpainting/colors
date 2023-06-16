@@ -1,0 +1,53 @@
+body {
+    margin: auto;
+    padding: auto;
+  }
+  h1 {
+    padding: 3%;
+    margin-left: 20px;
+  }
+  .container,.fonts, .styles{
+    border: 1px solid black;
+    margin: 7%;
+    padding-left: 2%;
+    padding-bottom: 20px;
+    margin-top:20px;
+  }
+  .first{
+    padding: 20px;
+    font-family: 'Source Code Pro',monospace;
+  }
+  .second {
+    font-family: 'Nunito Sans', sans-serif;
+    }
+    .third {
+      font-family: 'Poppins', sans-serif;
+    }
+  .fonts, p {
+    display: inline-block;
+  }
+  .container p {
+    display: inline-block;
+    border: 1px solid black;
+    width: 30%;
+    text-align: center;
+   margin-left: 10px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+  }
+  .blue {
+    color: white;
+    background-color: blue;
+  }
+  .pink {
+    color: black;
+    background-color: #d957d9;
+  }
+  .green {
+    color: black;
+    background-color: #4fe0b0;
+  }
+  .beige {
+    color: black;
+    background-color: #efd9ca;
+  }
